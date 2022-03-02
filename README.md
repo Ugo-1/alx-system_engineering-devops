@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Second ALX Repo
+Script for second task
